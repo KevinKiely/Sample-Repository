@@ -1,5 +1,5 @@
 # awef
-  (https://img.shields.io/badge/license-undefined-green.svg)
+  ![Github License](https://img.shields.io/badge/license-undefined-green.svg)
 
 ## Table of Contents
 * [Description](#Description)
@@ -35,7 +35,7 @@ awef
 ## Questions/Contact
 Contact Information
 
-[Contact](mailto:awef)
+[Contact](mailto:wef)
 [Github] https://github.com/awef
 
 
